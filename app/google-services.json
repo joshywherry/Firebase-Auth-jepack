@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646956461732",
+    "project_id": "fre-base-auth",
+    "storage_bucket": "fre-base-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646956461732:android:6e937eb7a42a67c6f94031",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthdemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpWrVoaF9QAamAMyFjvNSHXiGD8qTsLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
